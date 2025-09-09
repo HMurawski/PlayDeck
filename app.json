@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "PlayDeck",
+    "slug": "playdeck",
+    "scheme": "playdeck",
+    "plugins": [
+      "expo-router",
+      "sentry-expo"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
